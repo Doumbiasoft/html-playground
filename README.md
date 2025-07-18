@@ -4,10 +4,10 @@
 
 ## Here are the common HTML tags
 
-**1. `<!DOCTYPE html/>:`** Define the type of the document
-**2. `<html></html>:`** The main html document tag
-**3. `<head></head>:`** The section that contains app style sheet, app metadata and so on
-**4. `<body><body>:`** This section contains the data or information you want to display
+- **1. `<!DOCTYPE html/>:`** Define the type of the document
+- **2. `<html></html>:`** The main html document tag
+- **3. `<head></head>:`** The section that contains app style sheet, app metadata and so on
+- **4. `<body><body>:`** This section contains the data or information you want to display
 
 ## Example of an HTML document
 
