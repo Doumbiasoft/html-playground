@@ -1,4 +1,4 @@
-# HTML Playground
+# <img src="/images/html-logo.png" alt="HTML Logo" width="70"> HTML Playground
 
 **HTML** stands for **H**yper **T**ext **M**arkup **L**anguage
 
