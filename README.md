@@ -2,9 +2,7 @@
 
 **HTML** stands for **H**yper **T**ext **M**arkup **L**anguage
 
----
-
-## Here are the common. HTML tags
+## Here are the common HTML tags
 
 **1. `<!DOCTYPE html/>:`** Define the type of the document
 **2. `<html></html>:`** The main html document tag
